@@ -1,4 +1,31 @@
 # OAuth Launchpad 🚀
+
+## 📸 Application Screenshots
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="public/1.png" alt="Home Page" width="100%">
+      <p align="center"><b>Home Page</b></p>
+    </td>
+    <td width="50%">
+      <img src="public/2.png" alt="OAuth Guide" width="100%">
+      <p align="center"><b>OAuth Guide</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="public/3.png" alt="Setup Steps" width="100%">
+      <p align="center"><b>Setup Steps & Requirements</b></p>
+    </td>
+    <td width="50%">
+      <img src="public/4.png" alt="Generated Guide" width="100%">
+      <p align="center"><b>Generated Guide</b></p>
+    </td>
+  </tr>
+</table>
+
+
 ### From “I need an integration” to “Here’s what I need to do.”
 
 Connecting an AI agent to an existing app should be straightforward. Getting the OAuth setup right, however, can involve digging through documentation, configuring permissions, creating credentials, setting callback URLs, and sometimes waiting for a provider to approve your application.
